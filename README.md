@@ -7,5 +7,3 @@ This is just practice!
 
 - List
 
-1. Buy whatever I need today before lockdown!!!
-
